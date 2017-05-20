@@ -1,0 +1,71 @@
+Name: Vaishnavi Venkatraman
+
+USC ID: 8001994817
+
+News site crawled: latimes.com
+
+
+
+Fetch Statistics:
+=====================
+
+fetches attempted: 20000
+
+fetched succeeded: 19063
+
+fetched aborted: 7
+
+fetched failed: 930
+
+
+
+Outgoing URLs:
+=====================
+
+Total URLS extracted: 721080
+
+# unique URLs extracted: 154729
+
+# unique URLs within News Site: 131387
+
+# unique URLs outside News Site: 23342
+
+
+
+Status Codes
+:
+=====================
+
+404 Not Found: 5
+
+503 null: 2
+
+200 OK: 19063
+
+301 Moved Permanently: 923
+302: 7
+
+
+
+File Size
+s:
+=====================
+
+< 1KB: 7
+
+1KB ~ <10KB: 42
+
+10KB ~ <100KB: 2382
+
+100KB ~ <1MB: 16561
+
+>= 1MB: 71
+
+
+
+
+Content Types:
+=====================
+
+text/html: 18854
+
